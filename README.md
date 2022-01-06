@@ -12,4 +12,4 @@
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=Lina-Pawar&show_icons=true&theme=tokyonight)
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Lina-Pawar&theme=tokyonight)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Lina-Pawar&theme=tokyonight&layout=compact)
