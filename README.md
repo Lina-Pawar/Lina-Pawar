@@ -1,16 +1,15 @@
-### Hi there 👋
+# **Lina-Pawar**
 
-<!--
-**Lina-Pawar/Lina-Pawar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### [<img width="50px" src="https://img.icons8.com/ios-filled/200/ffffff/linkedin.png"/>](https://www.linkedin.com/in/lina-pawar-5289a0198/) Lina Pawar
 
-Here are some ideas to get you started:
+#### [<img width="50px" src="https://img.icons8.com/ios-filled/200/ffffff/gmail-new.png"/>](mailto:lpawar2911@gmail.com) lpawar2911@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
+
+![Profile View Counter](https://komarev.com/ghpvc/?username=Lina-Pawar&color=282828&label=Profile+visits)
+
+<hr>
+
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=Lina-Pawar&show_icons=true&theme=gruvbox)
+
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Lina-Pawar&theme=gruvbox)
