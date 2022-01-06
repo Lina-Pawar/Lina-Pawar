@@ -1,8 +1,8 @@
 # **Lina-Pawar**
 
-#### [<img width="50px" src="https://img.icons8.com/ios-filled/200/1E8AD2/linkedin.png"/>](https://www.linkedin.com/in/lina-pawar-5289a0198/) Lina Pawar
+#### [<img width="30px" src="https://img.icons8.com/ios-filled/200/1E8AD2/linkedin.png"/>](https://www.linkedin.com/in/lina-pawar-5289a0198/) Lina Pawar
 
-#### [<img width="50px" src="https://img.icons8.com/ios-filled/200/1E8AD2/gmail-new.png"/>](mailto:lpawar2911@gmail.com) lpawar2911@gmail.com
+#### [<img width="30px" src="https://img.icons8.com/ios-filled/200/1E8AD2/gmail-new.png"/>](mailto:lpawar2911@gmail.com) lpawar2911@gmail.com
 
 <br/>
 
