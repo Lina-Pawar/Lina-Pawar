@@ -1,8 +1,8 @@
 # **Lina-Pawar**
 
 #### Connect with me:
-[<img width="30px" src="https://img.icons8.com/ios-filled/200/1E8AD2/linkedin.png"/>]Lina-Pawar
-[<img width="30px" src="https://img.icons8.com/ios-filled/200/1E8AD2/gmail-new.png"/>](mailto:linapawar01@gmail.com) linapawar01@gmail.com
+<img width="30px" src="https://img.icons8.com/ios-filled/200/1E8AD2/linkedin.png"/>Lina-Pawar
+<img width="30px" src="https://img.icons8.com/ios-filled/200/1E8AD2/gmail-new.png"/>(mailto:linapawar01@gmail.com) linapawar01@gmail.com
 
 ### Languages and Tools:
 
@@ -19,7 +19,7 @@
 <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-
+<br/>
 
 <hr>
 
