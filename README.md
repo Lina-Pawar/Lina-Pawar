@@ -1,8 +1,9 @@
 # **Lina-Pawar**
 
 #### Connect with me:
-<img width="30px" src="https://img.icons8.com/ios-filled/200/1E8AD2/linkedin.png"/>Lina-Pawar
-<img width="30px" src="https://img.icons8.com/ios-filled/200/1E8AD2/gmail-new.png"/>linapawar01@gmail.com
+
+#### [<img width="30px" src="https://img.icons8.com/ios-filled/200/1E8AD2/linkedin.png"/>](https://www.linkedin.com/in/lina-pawar/) Lina-Pawar
+#### [<img width="30px" src="https://img.icons8.com/ios-filled/200/1E8AD2/gmail-new.png"/>](mailto:linapawar01@gmail.com) linapawar01@gmail.com
 
 ### Languages and Tools:
 
